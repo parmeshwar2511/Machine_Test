@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Catgeory_Ef.Models.Product>
+<h2>Products List</h2>
+
+<a class="btn btn-success mb-2" asp-action="Create">Add New Product</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Category</th>
+            <th>Subcategory</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count() > 0)
+        {
+            foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Name </td>
+                    <td>@product.Subcategory.Category.Name</td>
+                    <td>@product.Subcategory.Name</td>
+                    <td>@product.Price</td>
+                    <td>
+                        <a class="btn btn-primary" asp-action="Edit" asp-route-id="@product.Id">Edit</a>
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td>NO Category Product Availble</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

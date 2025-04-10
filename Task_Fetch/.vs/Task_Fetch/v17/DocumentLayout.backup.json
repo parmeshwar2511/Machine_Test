@@ -1,33 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\",
+  "WorkspaceRootPath": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|c:\\users\\dell\\source\\repos\\task_fetch\\catgeory_ef\\migrations\\20250409090353_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\migrations\\20250409090353_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|d:\\machinetest_git\\machine_test\\task_fetch\\catgeory_ef\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|c:\\users\\dell\\source\\repos\\task_fetch\\catgeory_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|d:\\machinetest_git\\machine_test\\task_fetch\\catgeory_ef\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|d:\\machinetest_git\\machine_test\\task_fetch\\catgeory_ef\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|d:\\machinetest_git\\machine_test\\task_fetch\\catgeory_ef\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|d:\\machinetest_git\\machine_test\\task_fetch\\catgeory_ef\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|d:\\machinetest_git\\machine_test\\task_fetch\\catgeory_ef\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|d:\\machinetest_git\\machine_test\\task_fetch\\catgeory_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|c:\\users\\dell\\source\\repos\\task_fetch\\catgeory_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|c:\\users\\dell\\source\\repos\\task_fetch\\catgeory_ef\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|c:\\users\\dell\\source\\repos\\task_fetch\\catgeory_ef\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|c:\\users\\dell\\source\\repos\\task_fetch\\catgeory_ef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|d:\\machinetest_git\\machine_test\\task_fetch\\catgeory_ef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|c:\\users\\dell\\source\\repos\\task_fetch\\catgeory_ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|d:\\machinetest_git\\machine_test\\task_fetch\\catgeory_ef\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|d:\\machinetest_git\\machine_test\\task_fetch\\catgeory_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|d:\\machinetest_git\\machine_test\\task_fetch\\catgeory_ef\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|d:\\machinetest_git\\machine_test\\task_fetch\\catgeory_ef\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|d:\\machinetest_git\\machine_test\\task_fetch\\catgeory_ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89DD032A-CC1E-4062-89FF-B9E5DCBDC458}|Catgeory_Ef\\Catgeory_Ef.csproj|solutionrelative:catgeory_ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,97 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250409090353_initialdb.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Migrations\\20250409090353_initialdb.cs",
-              "RelativeDocumentMoniker": "Catgeory_Ef\\Migrations\\20250409090353_initialdb.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Migrations\\20250409090353_initialdb.cs",
-              "RelativeToolTip": "Catgeory_Ef\\Migrations\\20250409090353_initialdb.cs",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Catgeory_Ef\\Models\\Product.cs",
+              "ToolTip": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Models\\Product.cs",
+              "RelativeToolTip": "Catgeory_Ef\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T09:03:53.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Program.cs",
-              "RelativeDocumentMoniker": "Catgeory_Ef\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Program.cs",
-              "RelativeToolTip": "Catgeory_Ef\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T08:58:26.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\appsettings.json",
-              "RelativeDocumentMoniker": "Catgeory_Ef\\appsettings.json",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\appsettings.json",
-              "RelativeToolTip": "Catgeory_Ef\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-09T08:50:37.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Catgeory_Ef\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Catgeory_Ef\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T08:13:56.103Z",
+              "WhenOpened": "2025-04-10T07:47:04.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Catgeory_Ef\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Models\\Product.cs",
-              "RelativeToolTip": "Catgeory_Ef\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Catgeory_Ef\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Catgeory_Ef\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T08:08:25.443Z",
+              "WhenOpened": "2025-04-10T07:46:41.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Catgeory_Ef\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Catgeory_Ef\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T08:18:26.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SubCategory.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Models\\SubCategory.cs",
-              "RelativeDocumentMoniker": "Catgeory_Ef\\Models\\SubCategory.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Models\\SubCategory.cs",
-              "RelativeToolTip": "Catgeory_Ef\\Models\\SubCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T08:04:47.694Z",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Catgeory_Ef\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Catgeory_Ef\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T08:18:52.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Catgeory_Ef\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Catgeory_Ef\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T08:18:57.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Catgeory_Ef\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Catgeory_Ef\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T08:25:52.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Catgeory_Ef\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Catgeory_Ef\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T08:20:09.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Catgeory_Ef\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Models\\Category.cs",
-              "RelativeToolTip": "Catgeory_Ef\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Program.cs",
+              "RelativeDocumentMoniker": "Catgeory_Ef\\Program.cs",
+              "ToolTip": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Program.cs",
+              "RelativeToolTip": "Catgeory_Ef\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T07:59:55.404Z",
+              "WhenOpened": "2025-04-10T07:47:13.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Catgeory_Ef\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Catgeory_Ef\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:48:35.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Catgeory_Ef\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Catgeory_Ef\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:16:49.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Catgeory_Ef\\Models\\Category.cs",
+              "ToolTip": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Models\\Category.cs",
+              "RelativeToolTip": "Catgeory_Ef\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:47:00.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\appsettings.json",
+              "RelativeDocumentMoniker": "Catgeory_Ef\\appsettings.json",
+              "ToolTip": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\appsettings.json",
+              "RelativeToolTip": "Catgeory_Ef\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T07:49:42.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SubCategory.cs",
+              "DocumentMoniker": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Models\\SubCategory.cs",
+              "RelativeDocumentMoniker": "Catgeory_Ef\\Models\\SubCategory.cs",
+              "ToolTip": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Models\\SubCategory.cs",
+              "RelativeToolTip": "Catgeory_Ef\\Models\\SubCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:47:08.811Z",
               "EditorCaption": ""
             }
           ]

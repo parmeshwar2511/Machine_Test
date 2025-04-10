@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Catgeory_Ef.csproj": {}
+    "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Catgeory_Ef.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Catgeory_Ef.csproj": {
+    "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Catgeory_Ef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Catgeory_Ef.csproj",
+        "projectUniqueName": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Catgeory_Ef.csproj",
         "projectName": "Catgeory_Ef",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\Catgeory_Ef.csproj",
+        "projectPath": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\Catgeory_Ef.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\Task_Fetch\\Catgeory_Ef\\obj\\",
+        "outputPath": "D:\\MachineTest_git\\Machine_Test\\Task_Fetch\\Catgeory_Ef\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,6 +65,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.12, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

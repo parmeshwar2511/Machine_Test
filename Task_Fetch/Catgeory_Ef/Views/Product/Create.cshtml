@@ -1,0 +1,100 @@
+﻿@model Catgeory_Ef.Models.Product
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Category</h4>
+<hr />
+<div class="row">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
+<h2>Create Product</h2>
+
+<form asp-action="Create">
+    <label>Category</label>
+    <select id="categoryDropdown" class="form-control" required>
+        <option value="" >Select Category</option>
+        @foreach (var category in ViewBag.Categories)
+        {
+            <option value="@category.Id">@category.Name</option>
+        }
+    </select>
+
+    <br />
+
+    <label>Subcategory</label>
+    <select id="subcategoryDropdown" name="SubcategoryId" class="form-control" required>
+        <option value="">Select Subcategory</option>
+    </select>
+
+    <br />
+
+    <label>Product Name</label>
+    <input type="text" id="productName" name="Name" class="form-control" placeholder="Product Name" readonly />
+
+    <br />
+
+    <label>Price</label>
+    <input type="number" name="Price" class="form-control" placeholder="Enter Price" required />
+
+    <br />
+
+    <button type="submit" class="btn btn-primary">Save Product</button>
+</form>
+
+<script>
+
+    $(document).ready(function () {
+        $("#categoryDropdown").change(function () {
+            var categoryId = $(this).val();
+            $("#subcategoryDropdown").empty().append('<option value="">Select Subcategory</option>');
+
+            if (categoryId) {
+                $.ajax({
+                    url: "/Product/GetSubcategories",
+                    type: "GET",
+                    data: { categoryId: categoryId },
+                    success: function (data) {
+                        $.each(data, function (index, item) {
+                            $("#subcategoryDropdown").append('<option value="' + item.id + '">' + item.name + '</option>');
+                        });
+                    }
+                });
+            }
+        });
+
+        $("#subcategoryDropdown").change(function () {
+            var categoryName = $("#categoryDropdown option:selected").text();
+            var subcategoryName = $("#subcategoryDropdown option:selected").text();
+            $("#productName").val(categoryName + " " + subcategoryName);
+        });
+    });
+</script>
+
+   @*  <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+           
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div
+</div> *@
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
